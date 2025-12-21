@@ -12,7 +12,7 @@ This is a repository that contains my notes for the microeconomics study that I 
 
 ## Why Study Microeconomics?
 
-Studying microeconomics allows individuals to understand how the market functions from the perspective of individual economic agent(s).
+Studying microeconomics allows individuals to understand how the market functions from the perspective of individual economic agents.
 
 This understanding of how the world system stems from individual interactions allows us to delve more into what shapes the dynamics of the markets in the world, and what gives rise to the different market structures we know today.
 
