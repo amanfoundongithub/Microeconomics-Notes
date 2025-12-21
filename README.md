@@ -6,7 +6,7 @@ This is a repository that contains my notes for the microeconomics study that I 
 
 `Microeconomics` is defined as a branch of economics that deals with the study of behavior and decision making of individual economic agents, such as firms or consumers.
 
-- The basic agenda of the microeconomic studies is to understand how these agents interact and understand the consequences of their interaction on price or resource allocation.
+- The basic agenda of microeconomics is to understand how these agents interact and the consequences of their interaction on price or resource allocation.
 
 - Microeconomics is considered as the oldest economics branch. The study of microeconomics goes back to the time of `Adam Smith`, who in his 1778 magnus opus `On The Wealth of Nations` described how economics within households work.
 
