@@ -10,7 +10,11 @@ This is a repository that contains my notes for the microeconomics study that I 
 
 - Microeconomics is considered as the oldest economics branch. The study of microeconomics goes back to the time of `Adam Smith`, who in his 1778 magnus opus `On The Wealth of Nations` described how economics within households work.
 
-- Studying microeconomics allows individuals to understand how the market functions from the perspective of individual economic agent(s).
+## Why Study Microeconomics?
+
+Studying microeconomics allows individuals to understand how the market functions from the perspective of individual economic agent(s).
+
+This understanding of how the world system stems from individual interaction allows us to delve more into what shapes the dynamics of the markets in the world, and what gives rise to the different market structures we know today.
 
 ## Table Of Content
 
