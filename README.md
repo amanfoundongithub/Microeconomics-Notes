@@ -16,7 +16,7 @@ Studying microeconomics allows individuals to understand how the market function
 
 This understanding of how the world system stems from individual interactions allows us to delve more into what shapes the dynamics of the markets in the world, and what gives rise to the different market structures we know today.
 
-## Table Of Content
+## Table Of Contents
 
 TODO: Update this as well as the content grows.
 
