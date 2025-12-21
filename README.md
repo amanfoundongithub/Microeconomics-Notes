@@ -22,6 +22,6 @@ TODO: Update this as well as the content grows.
 
 ## Contribute To This
 
-_Anyone can contribute to this project by raising a PR for the same. I will try to review and merge the PR as soon as possible._
+_Anyone can contribute to this project by raising a PR. I will try to review and merge the PR as soon as possible._
 
 ## Thanks for Reading this! Have a great day ahead
