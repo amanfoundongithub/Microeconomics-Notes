@@ -8,7 +8,7 @@ This is a repository that contains my notes for the microeconomics study that I 
 
 - The basic agenda of microeconomics is to understand how these agents interact and the consequences of their interaction on price or resource allocation.
 
-- Microeconomics is considered as the oldest economics branch. The study of microeconomics goes back to the time of `Adam Smith`, who in his 1778 magnus opus `On The Wealth of Nations` described how economics within households work.
+- Microeconomics is considered the oldest branch of economics. The study of microeconomics goes back to the time of `Adam Smith`, who in his 1778 magnum opus `On The Wealth of Nations` described how economics within households works.
 
 ## Why Study Microeconomics?
 
