@@ -18,7 +18,8 @@ This understanding of how the world system stems from individual interactions al
 
 ## Table Of Contents
 
-TODO: Update this as well as the content grows.
+[Consumer Theory](./consumer_theory)
+
 
 ## Contribute To This
 
