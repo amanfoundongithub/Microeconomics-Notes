@@ -5,3 +5,5 @@
 [2. Consumer Preference (Definition and Axioms)](./02.consumer_preference.md)
 
 [3. Indifference Cuvres](./03.indifference_curve.md)
+
+[4. Utility](./04.utility.md)
