@@ -7,3 +7,5 @@
 [3. Indifference Cuvres](./03.indifference_curve.md)
 
 [4. Utility](./04.utility.md)
+
+[5. Marginal Rate of Substitution](./05.marginal_utility_and_MRS.md)
